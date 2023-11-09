@@ -158,6 +158,7 @@ footer{
 
     font-size: smaller;
     cursor: pointer;
+    transition: transform .5s ease-out;
 
 
 
